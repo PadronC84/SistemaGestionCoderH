@@ -1,0 +1,18 @@
+# Carpeta de binarios generados
+bin/
+obj/
+
+# Archivos temporales
+*.suo
+*.user
+*.sln.cache
+
+# Carpeta de paquetes NuGet
+packages/
+
+# Carpeta de archivos de publicación
+publish/
+
+# Carpeta de caché de Visual Studio
+.vscode/
+.vs/
